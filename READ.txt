@@ -1,0 +1,24 @@
+						Important note!
+
+					This Project has Colorama!
+	If you are willing to play this game, fist check if you downloaded colorama before playing.
+			If you don't have colorama, the game would crash immediatly.
+
+				Please download colorama before playing.
+
+How to download colorama --------------------------
+
+1- first, go to this link : https://pypi.org/project/colorama/#files
+2- then click on colorama-0.4.6.tar.gz and download it.
+3- after run cmd as administrator
+4- then type cd and enter
+5- after go find colorama and rightclick and press properties
+6- copy the Location and paste it to the command pront
+7- before you enter, make sure that in the begining type:"CD " then hit Enter.
+8- now copy the file name by going into colorama properties and copy the name
+9- before you paste it in cmd type:pip install " and paste the name then.
+10- hit enter and now it would start downloading colorama.
+11- When done installing tpye: cd.. and press enter.
+12- and then type:exit and press enter.
+
+Now you have colorama installed in your computer/ laptop.
